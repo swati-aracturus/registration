@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (max-height: 690px) {
+    .min-h-690px {
+        min-height: 690px;
+    }
+}
